@@ -1,0 +1,101 @@
+html{
+    font-size:10px;
+    font-size:1.2em;
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Roboto';
+    background-color: #ebebeb;
+    background-color: #EAC926;
+}
+
+header,nav{
+    margin: 0px;
+    padding: 0px;
+    background-color: #EAC926;
+}
+main{
+    background-color: #ebebeb;
+}
+.burger-menu{
+text-align:center;
+background-color: #1259c3;
+color:white;
+width: 30px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+border-radius: 5px;
+}
+
+#compraCuotas{
+    text-align: center;
+}
+.fa-search{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+    margin-top: 2px;
+}
+
+nav ul{
+    padding: 0;
+    list-style-type: none;
+}
+.precio{
+font-size:18px;
+}
+
+.titular{
+    font-size:24px;
+}
+
+.descuentos{
+    font-size:16px;
+}
+
+.descripciones{
+    font-size:16px;
+}
+
+.titulares{
+    font-size:24px;
+}
+
+.producto{
+    background-color:white;
+    margin:15px;
+}
+footer{
+    background-color:white;
+    padding:10px;
+}
+
+footer section{
+    background-color:white;
+    padding:30px;
+    text-align:center;
+}
+
+footer i{
+    font-size:2em;
+    margin-bottom:10px;
+}
+
+.footer-icons{
+
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    color: #1259c3;
+}
+
+.copyright{
+    text-align:left;
+}
