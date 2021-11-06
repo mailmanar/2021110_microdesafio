@@ -12,6 +12,7 @@ body{
     font-family:'Roboto';
     background-color: #ebebeb;
     background-color: #EAC926;
+    display:grid;
 }
 
 header,nav{
@@ -31,6 +32,7 @@ margin-left: auto;
 margin-right: auto;
 padding: 10px;
 border-radius: 5px;
+margin-bottom:10px;
 }
 
 #compraCuotas{
